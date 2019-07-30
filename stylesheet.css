@@ -1,0 +1,70 @@
+body {
+    margin: 14px;
+}
+
+.logo {
+    margin: 18px;
+    border: solid black 1px;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+.top {
+    margin: 18px;
+    text-align: center;
+    padding: 18px;
+    margin-left: 600px;
+}
+
+.menu {
+    text-decoration: none;
+    padding-right: 7px;
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+}
+
+.wallpaper {
+    background-image: url("wallpaper.png");
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+    background-color: purple;
+    position: relative;
+}
+
+.note {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    font-size: 45px;
+}
+h2{
+    text-align: center;
+}
+
+.ourcourses{
+    align-content: center;
+    text-align: center;
+     ;
+    
+}
+.brief{
+   text-align: center; 
+}
+.footer{
+    text-align: center;
+    align-content: center;
+    margin: 4px;
+}
+
+
+
+
+
+
